@@ -15,4 +15,15 @@ body {
     background-color: var(--cor-de-fundo);
     color: var(--branco);
     font-family: 'Chakra Petch', sans-serif;
-}
+    }
+
+    .conteudo-principal{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        max-width: 1200px;
+        width: 100%;
+        margin:  0 auto;
+
+    }
