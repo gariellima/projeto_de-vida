@@ -64,7 +64,7 @@ body {
             display: flex;
         }
     }
-    .botao:first-child {
+    .botoes:first-child {
         border-radius: 40px 40px 0 0;
     }
     @media screen and (min-width: 768px) {
@@ -72,11 +72,11 @@ body {
             display: flex;
         }
     
-        .botao:first-child {
+        .botoes:first-child {
             border-radius: 40px 0 0 0;
         }
     
-        .botao:last-child {
+        .botoes:last-child {
             border-radius: 0 40px 0 0;
         }
     }
